@@ -85,11 +85,11 @@ Exception Handling
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YourUserName/EmployeeManagement.git
+git clone https://github.com/YourUserName/Employee_ManagementAPI.git
 ```
 
 ```
-cd EmployeeManagement
+cd Employee_ManagementAPI
 ```
 
 ---
